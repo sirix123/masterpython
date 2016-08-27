@@ -1,0 +1,3 @@
+#automated the boring stuff with python
+#chapter "webscraping"
+#pg....
